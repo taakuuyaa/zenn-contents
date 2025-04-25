@@ -9,9 +9,6 @@ published: true
 
 ## はじめに
 
-
-https://zenn.dev/dely_jp/articles/9082f13c0ee8cf
-
 上記でクラシルリワードでSREチーム立ち上げるまでの経緯や体制の変遷についてご紹介しました。
 
 今回は続編として、
