@@ -4,7 +4,7 @@ emoji: "♻️"
 type: "idea"
 topics: ["DevOps", "SRE"]
 publication_name: dely_jp
-published: false
+published: true
 ---
 
 ## はじめに
